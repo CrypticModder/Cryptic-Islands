@@ -3,7 +3,7 @@ local Library = {}
 local Objects = {Background = {}, GrayContrast = {}, DarkContrast = {}, TextColor = {}, SectionContrast = {}, DropDownListContrast = {}, CharcoalContrast = {}}
 
 local Themes = {
-	Background = Color3.fromRGB(46, 46, 54),
+	Background = Color3.fromRGB(0,0,0),
 	GrayContrast = Color3.fromRGB(39, 38, 46),
 	DarkContrast = Color3.fromRGB(29, 29, 35),
 	TextColor = Color3.fromRGB(255,255,255),
